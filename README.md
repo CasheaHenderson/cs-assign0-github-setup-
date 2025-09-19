@@ -1,6 +1,6 @@
 # cs-assign0-github-setup- 
 
-**About Me**
+**About Me & Assignment Evidence**
 
 My name is Cashea Henderson I currently work in the medical field but I am pursuing an advanced certificate in cybersecurity to transition into tech.
 
@@ -25,6 +25,7 @@ user.email=chenderson80@student.ccc.edu
 **Part C- Deliverable C (Authentication)**
 
 Hi CasheaHenderson! You've successfully authenticated, but GitHub does not provide shell access.
+
 **Part D - Deliverable D (Create repo,push,Branch,commit, PR, Issue)**
 
 
@@ -33,4 +34,4 @@ Hi CasheaHenderson! You've successfully authenticated, but GitHub does not provi
 
 **Part E - Reflection**
 
-What went smoothly? creating my github account and profile was the smoothest part of the setup for me (lol) What was confusing? I was initially confused on part c authentication - One Git/GitHub concept you want to learn more about? one thing I would like to learn more are pull request 
+What went smoothly? creating my github account and profile was the smoothest part of the setup for me (lol) What was confusing? I was initially confused on part c authentication - One Git/GitHub concept you want to learn more about? one thing I would like to learn more are pull request. 

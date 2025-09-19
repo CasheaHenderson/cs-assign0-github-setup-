@@ -25,6 +25,7 @@ user.email=chenderson80@student.ccc.edu
 **Part C- Deliverable C (Authentication)**
 
 Hi CasheaHenderson! You've successfully authenticated, but GitHub does not provide shell access.
+
 **Part D - Deliverable D (Create repo,push,Branch,commit, PR, Issue)**
 
 https://github.com/CasheaHenderson?tab=repositories
@@ -42,5 +43,4 @@ What went smoothly? creating my github account and profile was the smoothest par
 
 
 
- https://github.com/CasheaHenderson/cs-assign0-github-setup-
-**Part E - Reflection**
+

@@ -29,6 +29,8 @@ Hi CasheaHenderson! You've successfully authenticated, but GitHub does not provi
 
 
 
-
  https://github.com/CasheaHenderson/cs-assign0-github-setup-
+
 **Part E - Reflection**
+
+What went smoothly? creating my github account and profile was the smoothest part of the setup for me (lol) What was confusing? I was initially confused on part c authentication - One Git/GitHub concept you want to learn more about? one thing I would like to learn more are pull request 
